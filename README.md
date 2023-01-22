@@ -22,6 +22,7 @@ By the end of the course, students will have an understanding of a range of nonl
 - B. Deconinck, Nonlinear Waves course notes (2018): https://www.dropbox.com/s/48tyxnhtqczew28/NLWbook.pdf?dl=0
 - R. J. LeVeque, Finite Volume Methods for Hyperbolic Problems: https://www.cambridge.org/core/books/finite-volume-methods-for-hyperbolic-problems/97D5D1ACB1926DA1D4D52EAD6909E2B9
 - D. I. Ketcheson, R. J. LeVeque, and M. J. del Razo, Riemann Problems and Jupyter Solutions, http://www.clawpack.org/riemann_book/
+- [PseudospectralPython short course](https://github.com/ketch/PseudoSpectralPython)
 
 ## Evaluation
 
