@@ -32,12 +32,4 @@ Exercises will be assigned regularly (usually one or two at the end of each lect
 You are encouraged to work with other students on the exercises.  Exercises will involve both programming and analysis.
 
 ### Course project (50%)
-The remainder of your grade for the course will be based on completion of a research project.  This project should involve both theory and a software implementation.  To finalize the project, you will give a presentation to the class.
-
-Important project dates:
-
-- Project proposal due: March 1st
-- Progress report due: April 1st
-- Project presentations: TBD
- 
-You are encouraged to come up with your own project topic.  Guidelines for the proposal will be distributed during the second week of the course.
+The remainder of your grade for the course will be based on completion of a research project.  For the project, you will lead a discussion of a paper on some topic related to the course.  Some [suggested papers](https://github.com/ketch/AMCS-394D-2023/blob/main/discussion_papers.md) are available, or you may choose your own (with the instructor's approval).  All class members will read the paper in advance of the discussion.  Your objective is to have a full understanding of the paper so that you can teach its contents to the others.  You may also wish to prepare computational examples or other aids in advance.  These discussions will take place on the last 5 Thursdays of the course, starting April 11th.
