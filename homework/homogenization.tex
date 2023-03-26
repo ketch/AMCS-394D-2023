@@ -1,0 +1,60 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\usepackage{amsmath}
+\usepackage{braket}
+\usepackage{stmaryrd}
+\usepackage[margin=1in]{geometry}
+
+\newcommand{\fluctint}[1]{\llbracket #1 \rrbracket}
+
+\begin{document}
+
+1.  Write a spectral solver for the homogenized equations we derived in class:
+\begin{align}
+    \overline{K^{-1}} \overline{p}_t + \overline{u}_x & = \delta \alpha \hat{c}^2 \overline{u}_{xx} \\
+    \overline{\rho} \  \overline{u}_t + \overline{p}_x & = -\delta \alpha \hat{c}^2 \overline{u}_{xx}
+\end{align}
+where
+$$
+    \alpha = \overline{K^{-1}\fluctint{\rho}}
+$$
+with
+$$
+    \fluctint{f}(y) = \int_0^y\left\{f(\xi)\right\}d\xi  - \int_0^1 \int_0^\tau \left\{f(\xi)\right\}d\xi d\tau.
+$$
+where $\left\{f(y)\right\} = f(y) - \int_0^1 f$,
+and $\delta$ is the period of the coefficient functions $K(x), \rho(x)$.
+
+Since these equations are linear, you don't need the pseudospectral approach and you don't need to
+discretize in time.
+\vspace{0.3in}
+
+2.  Compare the solution from your spectral solver with the direct solution of the variable-coefficient wave
+equation.  For the latter, you may use the code in the notebook presented in class.  How does the agreement between
+these two change as you:
+\begin{itemize}
+    \item Vary the final time?
+    \item Vary the length of the spatial period?
+    \item Vary the "wavelength" of the initial data?
+    \item Vary the amount of variation in the impedance: $Z(x) = \sqrt{K(x) \rho(x)}$?
+\end{itemize}
+
+\vspace{0.3in}
+\noindent {\bf If you're interested, here are some other questions you could consider:}
+\vspace{0.3in}
+
+3.  Work out the next order terms using perturbation theory.  Add these to your spectral solver.  How much does the agreement between
+the homogenized system and the variable-coefficient system improve?
+
+Can you conjecture the general form of the corrections that will appear at subsequent orders?
+\vspace{0.3in}
+
+4.  In class, we wrote the homogenized system (without exchanging $t$-derivatives for $x$-derivatives) 
+as a set of 4 first-order equations (see the notes).  What is the dispersion relation for this system, and how does it differ
+from the dispersion relation we derived in class?
+
+Write a solver for this system using either operator splitting or an exponential method, and compare the results
+it gives with those obtained in part (2) above.
+
+\end{document}
