@@ -15,8 +15,10 @@
 
 ## Nonlinear waves
 - [Solitary Waves in Layered Nonlinear Media](https://epubs.siam.org/doi/10.1137/S0036139902408151) (LeVeque & Yong, 2003)
+  - [Jupyter notebook to reproduce some of the experiments from the paper](https://github.com/clawpack/apps/blob/master/notebooks/pyclaw/Stegotons.ipynb)
 - [Diffractons: Solitary Waves Created by Diffraction in Periodic Media](https://epubs.siam.org/doi/abs/10.1137/130946526) (Ketcheson & Quezada de Luna, 2015)
 - [Solitary water waves created by variations in bathymetry](https://doi.org/10.1017/jfm.2021.267) (Quezada de Luna & Ketcheson, 2021)
+  - [Jupyter notebook to reproduce some of the experiments from the paper](https://github.com/clawpack/apps/blob/master/notebooks/pyclaw/shallow_water_diffraction.ipynb)
 
 ### Not explicitly about periodic media, but related
 - [Long waves in a uniform channel of arbitrary cross-section](https://doi.org/10.1017/S0022112068000777) (Peregrine, 1967)
