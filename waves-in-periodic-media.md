@@ -22,3 +22,5 @@
 
 ### Not explicitly about periodic media, but related
 - [Long waves in a uniform channel of arbitrary cross-section](https://doi.org/10.1017/S0022112068000777) (Peregrine, 1967)
+- [Numerical validation of homogeneous multi-fluid models](https://doi.org/10.1016/j.amc.2022.127693) (Phan, Gavrilyuk, & Russo 2023)
+- [Quasiperiodic Solutions in Weakly Nonlinear Gas Dynamics. Part I. Numerical Results in the Inviscid Case](https://doi.org/10.1111/1467-9590.1034137) (Shefter & Rosales, 2002)
