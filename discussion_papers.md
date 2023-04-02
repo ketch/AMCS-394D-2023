@@ -15,12 +15,12 @@ description of dispersive shock wave structure](https://onlinelibrary.wiley.com/
 ## Dispersive hyperbolic systems
 - [Hyperbolic approximation of the BBM equation](https://iopscience.iop.org/article/10.1088/1361-6544/ac4c49/pdf)
 - [A hyperbolic reformulation of the Serre-Green-Naghdi model for general bottom topographies](https://www.sciencedirect.com/science/article/pii/S0045793020302863)
-- [Dispersive Nonlinear Shallow-Water Equations](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9590.2008.00422.x)
+- [Dispersive Nonlinear Shallow-Water Equations](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9590.2008.00422.x) (Abhijit)
 - [Hyperbolic relaxation technique for solving the dispersive Serre–Green–Naghdi equations with topography](https://www.sciencedirect.com/science/article/pii/S002199912100704X)
 
 ## Long-time regularity of solutions of hyperbolic systems
 - [Shock dynamics in layered periodic media](https://www.intlpress.com/site/pub/pages/journals/items/cms/content/vols/0010/0003/a007/)
-- [A paradigm for time-periodic sound wave propagation in the compressible Euler equations](https://projecteuclid.org/journalArticle/Download?urlid=maa%2F1273002797)
+- [A paradigm for time-periodic sound wave propagation in the compressible Euler equations](https://projecteuclid.org/journalArticle/Download?urlid=maa%2F1273002797) (Carlos)
 - [Time-Periodic Linearized Solutions of the Compressible Euler Equations and a Problem of Small Divisors](https://epubs.siam.org/doi/abs/10.1137/080739604)
 - [Stationary shock-like transition fronts in dispersive systems](https://iopscience.iop.org/article/10.1088/1361-6544/ab95ac/meta)
 
