@@ -1,8 +1,9 @@
 # Potential papers for class discussions
 
-## Dispersive shock waves (Yousef)
+## Dispersive shock waves
+- [Dispersive shock waves and modulation theory](https://doi.org/10.1016/j.physd.2016.04.006) (Yousef)
 - [Nonlinear Schrödinger equations and the universal
-description of dispersive shock wave structure](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sapm.12247)
+description of dispersive shock wave structure](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sapm.12247) 
 - [Dispersive and Diffusive-Dispersive Shock Waves for Nonconvex Conservation Laws](https://epubs.siam.org/doi/abs/10.1137/15M1015650)
 
 
