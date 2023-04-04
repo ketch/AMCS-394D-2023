@@ -9,8 +9,8 @@ description of dispersive shock wave structure](https://onlinelibrary.wiley.com/
 ## Variable-coefficient hyperbolic systems
 - [Numerical validation of homogeneous multi-fluid models](https://www.sciencedirect.com/science/article/pii/S0096300322007615)
 - [Diffractons: Solitary Waves Created by Diffraction in Periodic Media](https://epubs.siam.org/doi/abs/10.1137/130946526)
-- [Waves in Periodically Layered Media: A Comparison of Two Theories](https://epubs.siam.org/doi/10.1137/0153058)
-- [One-Dimensional Wave Dispersion in Layered Media](https://epubs.siam.org/doi/10.1137/15M101138X)
+- [Waves in Periodically Layered Media: A Comparison of Two Theories](https://epubs.siam.org/doi/10.1137/0153058) (Laila?)
+- [One-Dimensional Wave Dispersion in Layered Media](https://epubs.siam.org/doi/10.1137/15M101138X) (Laila?)
 
 ## Dispersive hyperbolic systems
 - [Hyperbolic approximation of the BBM equation](https://iopscience.iop.org/article/10.1088/1361-6544/ac4c49/pdf)
