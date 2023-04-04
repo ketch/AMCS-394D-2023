@@ -15,7 +15,7 @@ description of dispersive shock wave structure](https://onlinelibrary.wiley.com/
 
 ## Dispersive hyperbolic systems
 - [Hyperbolic approximation of the BBM equation](https://iopscience.iop.org/article/10.1088/1361-6544/ac4c49/pdf)
-- [A hyperbolic reformulation of the Serre-Green-Naghdi model for general bottom topographies](https://www.sciencedirect.com/science/article/pii/S0045793020302863)
+- [A hyperbolic reformulation of the Serre-Green-Naghdi model for general bottom topographies](https://www.sciencedirect.com/science/article/pii/S0045793020302863) (Abhijit)
 - [Dispersive Nonlinear Shallow-Water Equations](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9590.2008.00422.x) (Jeff)
 - [Hyperbolic relaxation technique for solving the dispersive Serre–Green–Naghdi equations with topography](https://www.sciencedirect.com/science/article/pii/S002199912100704X)
 
