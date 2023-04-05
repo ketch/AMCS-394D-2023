@@ -1,21 +1,22 @@
 # Potential papers for class discussions
 
 ## Dispersive shock waves
+- [Dispersive shock waves and modulation theory](https://doi.org/10.1016/j.physd.2016.04.006) (Yousef)
 - [Nonlinear Schrödinger equations and the universal
-description of dispersive shock wave structure](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sapm.12247)
+description of dispersive shock wave structure](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sapm.12247) 
 - [Dispersive and Diffusive-Dispersive Shock Waves for Nonconvex Conservation Laws](https://epubs.siam.org/doi/abs/10.1137/15M1015650)
 
 
 ## Variable-coefficient hyperbolic systems
 - [Numerical validation of homogeneous multi-fluid models](https://www.sciencedirect.com/science/article/pii/S0096300322007615)
 - [Diffractons: Solitary Waves Created by Diffraction in Periodic Media](https://epubs.siam.org/doi/abs/10.1137/130946526)
-- [Waves in Periodically Layered Media: A Comparison of Two Theories](https://epubs.siam.org/doi/10.1137/0153058)
-- [One-Dimensional Wave Dispersion in Layered Media](https://epubs.siam.org/doi/10.1137/15M101138X)
+- [Waves in Periodically Layered Media: A Comparison of Two Theories](https://epubs.siam.org/doi/10.1137/0153058) (Laila?)
+- [One-Dimensional Wave Dispersion in Layered Media](https://epubs.siam.org/doi/10.1137/15M101138X) (Laila?)
 
 ## Dispersive hyperbolic systems
 - [Hyperbolic approximation of the BBM equation](https://iopscience.iop.org/article/10.1088/1361-6544/ac4c49/pdf)
-- [A hyperbolic reformulation of the Serre-Green-Naghdi model for general bottom topographies](https://www.sciencedirect.com/science/article/pii/S0045793020302863)
-- [Dispersive Nonlinear Shallow-Water Equations](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9590.2008.00422.x) (Abhijit)
+- [A hyperbolic reformulation of the Serre-Green-Naghdi model for general bottom topographies](https://www.sciencedirect.com/science/article/pii/S0045793020302863) (Abhijit)
+- [Dispersive Nonlinear Shallow-Water Equations](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9590.2008.00422.x) (Jeff)
 - [Hyperbolic relaxation technique for solving the dispersive Serre–Green–Naghdi equations with topography](https://www.sciencedirect.com/science/article/pii/S002199912100704X)
 
 ## Long-time regularity of solutions of hyperbolic systems
